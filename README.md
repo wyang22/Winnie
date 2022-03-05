@@ -29,10 +29,10 @@ allow-hotplug wlan0
 iface wlan0 inet static
 wpa-ssid  LOCAL_NEWORK_SSID
 wpa-psk  LOCAL_NEWORK_PASSWORD
-address 192.178.1.109
+address IPV4_ADRESS_FOR_ROBOT (eg. 10.0.0.7)
 netmask 255.255.255.0
-gateway 192.178.1.1
-network 192.178.1.1
+gateway DEFAULT_GATEWAY (eg. 10.0.0.1)
+network 10.0.0.1
 # wpa-conf /etc/wpa_supplicant/wpa_supplicant.conf
 
 allow-hotplug wlan1
