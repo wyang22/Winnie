@@ -3,6 +3,16 @@ Winnie
 
 Winnie is a home robot project developed by me in my spare time. She is composed by 3 wheels, 2 robot arms and a neck to move 2 cameras with the head freely. It is also equipped with an LED light on the head and a speaker in the body to speak or play music as needed.
 
+Its HW includes:
+- A Raspberry Pi 3 chipset
+- A motor driver cheipset
+- 2 motors to drive the wheels
+- 10 servo motors on arms and necks
+- 2 batteries
+- An LED light
+- An speaker
+- An micorphone
+
 
 <img src="https://github.com/wyang22/Winnie/blob/main/images/Winnie.jpg" alt="WinnieDemo" />
 
@@ -42,5 +52,5 @@ wpa-conf /etc/wpa_supplicant/wpa_supplicant.conf
 
 Step 2: Connect your PC with robot
 ----------------
-(1) Reboot the robot, wait until it connect to WiFi
-(2) Connect to the robot using Putty with the right IP address
+- Reboot the robot, wait until it connect to WiFi
+- Connect to the robot using Putty with the right IP address
