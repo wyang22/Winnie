@@ -8,7 +8,7 @@ Winnie is a home robot project developed by me in my spare time. She is composed
 
 
 
-Step 1: Configure the robot to connect with WiFi automatically
+Step 1: Configure the robot to connect with WiFi automatically after power on
 ----------------
 
 Connect robot chipset with internet cable, login to the system, and modify below file '/etc/network/interfaces' as below:
@@ -40,3 +40,7 @@ iface wlan1 inet manual
 wpa-conf /etc/wpa_supplicant/wpa_supplicant.conf
 ```
 
+Step 2: Connect your PC with robot
+----------------
+(1) Reboot the robot, wait until it connect to WiFi
+(2) Connect to the robot using Putty with the right IP address
