@@ -1,0 +1,5 @@
+* Adafruit GND to RPi GND
+* Adafruit SCL to RPi SCL1
+* Adafruit SDA to RPi SDA1
+* Adafruit VCC to RPi 3.3V
+* Adafruit V+ to RPi 5V

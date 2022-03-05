@@ -1,0 +1,22 @@
+接线：
+L298N的两个电机输出接两个电机
+L298N的4个信号输出分别接树莓派的11\12\13\15的GPIO口
+L298N的5V和GND（右边两个）接树莓派的5V和GND 
+L298N的驱动电源和GND（左边两个）接电池盒
+
+
+
+配置开机自启动，修改rc.local 或者配置init.d ，这里修改rc.local
+
+sudo vi /etc/rc.local
+
+如果你的mail.py在Desktop
+
+则在exit 0上面一行添加
+
+python /home/pi/code/motor/clear.py
+sh /home/pi/code/init.sh
+
+然后保存 退出
+
+此时sudo reboot,等树莓派重新启动
