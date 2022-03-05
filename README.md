@@ -7,6 +7,7 @@ Its HW includes:
 - A Raspberry Pi 3 chipset
 - A motor driver cheipset
 - 2 motors to drive the wheels
+- 3 wheels (2 to be controlled by the motors and 1 omni-directional wheel)
 - 10 servo motors on arms and necks
 - 2 batteries
 - An LED light
