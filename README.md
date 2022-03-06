@@ -55,3 +55,9 @@ Step 2: Connect your PC with robot
 ----------------
 - Reboot the robot, wait until it connect to WiFi
 - Connect to the robot using Putty with the right IP address
+
+
+Step 3: Write or execute code from PC to robot via local wifi connection
+----------------
+- Login to the robot's system using putty and wifi connection
+- Write or execute python code
