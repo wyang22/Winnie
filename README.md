@@ -61,3 +61,8 @@ Step 3: Write or execute code from PC to robot via local wifi connection
 ----------------
 - Login to the robot's system using putty and wifi connection
 - Write or execute python code
+
+
+----------------
+Reference:
+https://pytorch.org/tutorials/intermediate/realtime_rpi.html
