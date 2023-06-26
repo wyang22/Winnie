@@ -14,8 +14,9 @@ Its HW includes:
 - An speaker
 - An micorphone
 
-Audio noise smart filtering: <a herf="http://www.soopat.com/Patent/202010588474" target="_blank">语音聊天协同处理方法及装置</a>
-Firmware smart secure: <a herf="http://www.soopat.com/Patent/202010588474" target="_blank">智能设备的数据处理方法</a>
+Related patents:
+- 语音聊天协同处理方法及装置: http://www.soopat.com/Patent/202010588474
+- 智能设备的数据处理方法: http://www.soopat.com/Patent/202010588474"
 
 <img src="https://github.com/wyang22/Winnie/blob/main/images/Winnie.jpg" alt="WinnieDemo" />
 
