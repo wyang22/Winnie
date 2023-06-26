@@ -15,8 +15,8 @@ Its HW includes:
 - An micorphone
 
 Related patents:
-- 语音聊天协同处理方法及装置(Voice chat cooperative processing method and device): http://www.soopat.com/Patent/202010588474
-- 智能设备的数据处理方法(Data processing method of intelligent equipment): http://www.soopat.com/Patent/202010588474
+- 语音聊天协同处理方法及装置 (Voice chat cooperative processing method and device): http://www.soopat.com/Patent/202010588474
+- 智能设备的数据处理方法 (Data processing method of intelligent equipment): http://www.soopat.com/Patent/202010588474
 
 <img src="https://github.com/wyang22/Winnie/blob/main/images/Winnie.jpg" alt="WinnieDemo" />
 
